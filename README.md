@@ -1,5 +1,7 @@
 # ToDoAngular
-
+# https://narendravanka.github.io/TO-DO/   
+TO-DO client running on this url.
+Node hosts the apis from Heroku 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
 
 ## Development server
